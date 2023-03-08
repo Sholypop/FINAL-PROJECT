@@ -23,7 +23,7 @@ logloss
 
 ## Training time
 
-3.4 seconds
+3.3 seconds
 
 ## Metric details
 |           |    score |     threshold |

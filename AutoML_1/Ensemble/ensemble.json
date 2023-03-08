@@ -11,7 +11,7 @@
     "predictions_fname": "Ensemble/predictions_ensemble.csv",
     "metric_name": "logloss",
     "final_loss": 0.12059519846281658,
-    "train_time": 0.4533228874206543,
+    "train_time": 0.4535250663757324,
     "is_stacked": false,
     "threshold": 0.2586117088794708
 }

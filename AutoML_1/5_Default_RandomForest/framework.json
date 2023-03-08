@@ -1,5 +1,5 @@
 {
-    "uid": "f88c5d2a-8a9d-4abe-a9fc-3bb1de3b3fca",
+    "uid": "19d486f2-6535-4686-973e-c1e973924f5f",
     "name": "5_Default_RandomForest",
     "preprocessing": [
         {
@@ -309,7 +309,7 @@
             "library_version": "1.0.2",
             "algorithm_name": "Random Forest",
             "algorithm_short_name": "Random Forest",
-            "uid": "53cfb75a-9a1d-4989-973e-f67c6ee79c24",
+            "uid": "d2382b80-c61b-4a7e-8946-dd1c681b9f3e",
             "params": {
                 "model_type": "Random Forest",
                 "ml_task": "binary_classification",
@@ -452,7 +452,7 @@
     "predictions_fname": "5_Default_RandomForest/predictions_validation.csv",
     "metric_name": "logloss",
     "final_loss": 0.17958376997132938,
-    "train_time": 3.39243483543396,
+    "train_time": 3.283578872680664,
     "is_stacked": false,
     "threshold": 0.30642755733315324
 }
