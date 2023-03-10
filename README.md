@@ -11,13 +11,12 @@ A data frame with 13,000 rows and 33 columns(variables)
 
 ## Activities:
 
-Day 1 : Import and clean Data set
+Stage 1 : Import and clean Data set
 
-Day 2 : EDA. exploratory analysis of the data set /and  Data preprocessing
+Stage 2 : Data preprocessing
 
-Day 3 : Building a Machine Model
-       Extra : Data Visualisation(TABLEAU)
+Stage 3 : Building a Machine Model
 
-Day 4 : preparation for presentation
+Stage 4 : preparation for presentation
 
-Day 5 : Presentation.
+Stage 5 : Presentation.
